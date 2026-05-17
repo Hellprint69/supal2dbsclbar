@@ -5,13 +5,13 @@ export default function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        {/* Histats.com START (aync) - ID: 5019431 */}
+        {/* Histats.com  START  (aync) - ID: 5017612 */}
         <script 
           type="text/javascript"
           dangerouslySetInnerHTML={{
             __html: `
               var _Hasync= _Hasync|| [];
-              _Hasync.push(['Histats.start', '1,5019431,4,0,0,0,00010000']);
+              _Hasync.push(['Histats.start', '1,5017612,4,0,0,0,00010000']);
               _Hasync.push(['Histats.fasi', '1']);
               _Hasync.push(['Histats.track_hits', '']);
               (function() {
@@ -29,7 +29,7 @@ export default function MyApp({ Component, pageProps }) {
       {/* Noscript Fallback */}
       <noscript>
         <a href="/" target="_blank">
-          <img src="//sstatic1.histats.com/0.gif?5019431&101" alt="histats" border="0" />
+          <img src="//sstatic1.histats.com/0.gif?5017612&101" alt="histats" border="0" />
         </a>
       </noscript>
     </>
